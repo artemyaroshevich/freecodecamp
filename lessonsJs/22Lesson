@@ -1,0 +1,6 @@
+let rows = ["Naomi", "Quincy", "CamperChan"];
+rows.push("freeCodeCamp");
+// pop is methoud which deleted last element from object
+let popped = rows.pop();
+console.log(rows);
+console.log(popped);

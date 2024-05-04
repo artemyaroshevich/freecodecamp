@@ -1,0 +1,5 @@
+let rows = ["Naomi", "Quincy", "CamperChan"];
+rows.push("freeCodeCamp");
+let pushed = rows.push();
+//What will retern varible pushed?Answer(4);
+console.log(pushed)
